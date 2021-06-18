@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+An Elixir Project build to give you cool Identicons.
 
 ## Installation
 
